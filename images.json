@@ -9,10 +9,10 @@ IMG=[{
   maxWidth : {
     900: "px"
   },
-  hash: "hash"
+  hash: "hash_nul"
   },{
   name:"name2",
-  count:"1",
+  count:'1',
   alt:"alt",
   src:"https://nasobe.ru/blozhik/img/beg/P11119-125537.jpg",
   srcset:"",
@@ -22,7 +22,7 @@ IMG=[{
   hash: "foto"
   },{
     name:"name3",
-    count:"2",
+    count:2,
     alt:"alt",
     src:"https://nasobe.ru/blozhik/img/beg/P11119-163322.jpg",
     srcset:"",
@@ -32,12 +32,22 @@ IMG=[{
     hash:"hash"
     },{
     name:"webp",
-    count:"1",
+    count:'3',
     alt:"alt",
     src:"https://nasobe.ru/spaa/images/1.jpg",
     srcset:"https://nasobe.ru/spaa/images/1.webp",
-    maxWidth : {
-      900: "px"
-    },
-  hash:"webp"
+      maxWidth : {
+        900: "px"
+      },
+    hash:"webp"
+},{
+name:"YYY",
+count:'3',
+alt:"alt",
+src:"https://nasobe.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
+srcset:"",
+  maxWidth : {
+    900: "px"
+  },
+hash:"yyy"
 }]
