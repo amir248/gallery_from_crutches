@@ -1,6 +1,6 @@
 console.log('vse-ok!');
 // document.querySelector('#json-holder').innerHTML =JSON.stringify(IMG);
-console.log(JSON.stringify(IMG));
+// console.log(JSON.stringify(IMG));
 
 document.addEventListener("DOMContentLoaded",GoClick);
 window.addEventListener("hashchange",GoClick);
