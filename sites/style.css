@@ -1,0 +1,7 @@
+*{
+  margin:0;
+}
+html{
+  background: linear-gradient(green,orange);
+  min-height: 100vh;
+}
