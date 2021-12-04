@@ -19,3 +19,7 @@ article{
   width:900px;
   flex-direction: column;
 }
+img{
+  max-width: 100%;
+  width:900px;
+}
