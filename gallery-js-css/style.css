@@ -5,6 +5,9 @@ html{
   background: linear-gradient(yellow,green,orange,cyan,yellow,blue);
   min-height: 100vh;
 }
+body{
+  font-size: 20px;
+}
 main{
   display:flex;
   justify-content: center;
