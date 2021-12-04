@@ -28,12 +28,12 @@ function GoClick(){
     document.querySelector('img').src=IMG[aj].src;
     document.querySelector('img').setAttribute('alt',IMG[aj].alt);
       console.log(IMG[aj].count+"_"+IMG[aj].hash);
-      // if(IMG[aj].srcset==0){
-      //   console.log('pusto');
-      // }else{
-      //   document.querySelector('img').srcset=IMG[aj].srcset;
-      //   console.log("nePusto");
-      // }
+      if(IMG[aj].srcset=={}){
+        console.log('pusto');
+      }else{
+        document.querySelector('img').srcset=IMG[aj].srcset;
+        // console.log("nePusto");
+      }
       // localStorage.setItem(CountClick,IMG[aj].count);
     }
   }
