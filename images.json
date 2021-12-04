@@ -6,9 +6,6 @@ IMG=[{
   alt:"alt",
   src:"https://nasobe.ru/blozhik/img/beg/P11111-132550.jpg",
   srcset:"",
-  maxWidth : {
-    900: "px"
-  },
   hash: "hash_nul"
   },{
   name:"name2",
@@ -16,9 +13,6 @@ IMG=[{
   alt:"alt",
   src:"https://nasobe.ru/blozhik/img/beg/P11119-125537.jpg",
   srcset:"",
-  maxWidth : {
-    900: "px"
-  },
   hash: "foto"
   },{
     name:"name3",
@@ -36,18 +30,13 @@ IMG=[{
     alt:"alt",
     src:"https://nasobe.ru/spaa/images/1.jpg",
     srcset:"https://nasobe.ru/spaa/images/1.webp",
-      maxWidth : {
-        900: "px"
-      },
     hash:"webp"
-},{
-name:"YYY",
-count:'4',
-alt:"alt",
-src:"https://nasobe.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
-srcset:"",
-  maxWidth : {
-    900: "px"
-  },
-hash:"yyy"
-}]
+  },{
+  name:"Shikarno",
+  count:'4',
+  alt:"alt",
+  src:"https://nasobe.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
+  srcset:"",
+  hash:"Shikarno"
+  }
+]
