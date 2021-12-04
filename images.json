@@ -1,0 +1,43 @@
+let IMG={};
+
+IMG=[{
+  name:"name",
+  count:"0",
+  alt:"alt",
+  src:"https://nasobe.ru/blozhik/img/beg/P11111-132550.jpg",
+  srcset:"",
+  maxWidth : {
+    900: "px"
+  },
+  hash: "hash"
+  },{
+  name:"name2",
+  count:"1",
+  alt:"alt",
+  src:"https://nasobe.ru/blozhik/img/beg/P11119-125537.jpg",
+  srcset:"",
+  maxWidth : {
+    900: "px"
+  },
+  hash: "foto"
+  },{
+    name:"name3",
+    count:"2",
+    alt:"alt",
+    src:"https://nasobe.ru/blozhik/img/beg/P11119-163322.jpg",
+    srcset:"",
+    maxWidth : {
+      900: "px"
+    },
+    hash:"hash"
+    },{
+    name:"webp",
+    count:"1",
+    alt:"alt",
+    src:"https://nasobe.ru/spaa/images/1.jpg",
+    srcset:"https://nasobe.ru/spaa/images/1.webp",
+    maxWidth : {
+      900: "px"
+    },
+  hash:"webp"
+}]
