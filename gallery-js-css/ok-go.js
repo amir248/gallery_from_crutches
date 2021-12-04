@@ -34,7 +34,7 @@ function GoClick(){
         document.querySelector('img').srcset=IMG[aj].srcset;
         console.log("nePusto");
       }
-      localStorage.setItem(CountClick,IMG[aj].count);
+      // localStorage.setItem(CountClick,IMG[aj].count);
     }
   }
 }
