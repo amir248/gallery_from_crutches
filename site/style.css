@@ -2,7 +2,7 @@
   margin:0;
 }
 html{
-  background: linear-gradient(green,orange);
+  background: linear-gradient(yellow,green,orange,cyan,yellow,blue);
   min-height: 100vh;
 }
 main{
