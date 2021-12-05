@@ -31,19 +31,19 @@ IMG=[{
     src:"https://nasobe.ru/spaa/images/1.jpg",
     srcset:"https://nasobe.ru/spaa/images/1.webp",
     hash:"webp"
-  },{
-  name:"Shikarno",
-  count:'4',
-  alt:"alt",
-  src:"https://nasobe.ru/blozhik/img/looking_for_a_job.png",
-  srcset:"",
-  hash:"Shikarno"
-  },{
-  name:"looking_for_a_job",
-  count:'5',
-  alt:"looking_for_a_job",
-  src:"https://nasobe.ru/blozhik/img/looking_for_a_job.png",
-  srcset:"",
-  hash:"looking_for_a_job"
-  }
+},{
+name:"Shikarno",
+count:'4',
+alt:"alt",
+src:"https://nasobe.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
+srcset:"",
+hash:"Shikarno"
+},{
+name:"looking_for_a_job",
+count:'5',
+alt:"looking_for_a_job",
+src:"https://nasobe.ru/blozhik/img/looking_for_a_job.png",
+srcset:"",
+hash:"looking_for_a_job"
+}
 ]
