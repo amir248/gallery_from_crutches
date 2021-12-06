@@ -40,5 +40,5 @@ function GoClick(){
 }
 
 function RightClick(){
-  console.log("rightClick");
+  console.log("backClick");
 }
