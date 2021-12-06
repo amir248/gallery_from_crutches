@@ -38,3 +38,7 @@ function GoClick(){
     }
   }
 }
+
+function RightClick(){
+  console.log("rightClick");
+}
