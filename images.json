@@ -73,7 +73,23 @@ count:'8',
 alt:"alt",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6735.JPG",
 srcset:"",
-hash:"otkazov-null",
+hash:"spanchBob-znaet",
+title: "🤩"
+},{
+name:"",
+count:'9',
+alt:"alt",
+src:"https://nasobe.ru/public_html/images/SpanchBob/DSC_6736.JPG",
+srcset:"",
+hash:"spanchBob-yveren",
+title: "🤩"
+},{
+name:"",
+count:'9',
+alt:"alt",
+src:"https://nasobe.ru/public_html/images/SpanchBob/DSC_6737.JPG",
+srcset:"",
+hash:"spanchBob-govoritDA!",
 title: "🤩"
 }
 ]
