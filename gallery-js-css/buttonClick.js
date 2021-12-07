@@ -8,7 +8,7 @@ document.querySelector('#buttonLeft').addEventListener('click',()=>{
     console.log("coutnClick"+'__'+CountClick);
     for(let newi=0;newi<IMG.length;newi++){
       if(IMG[newi].count==CountClick){
-        console.log('nu vot'+IMG[newi].count+'__'+CountClick);
+        // console.log('nu vot'+IMG[newi].count+'__'+CountClick);
         document.querySelector('img').src=IMG[newi].src;
         document.querySelector('img').setAttribute('alt',IMG[newi].alt);
           window.location.hash='#'+IMG[newi].hash;
