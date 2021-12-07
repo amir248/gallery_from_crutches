@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="gallery javsacript">
     <link rel="stylesheet" type="text/css" href="gallery-js-css/style.css">
+    <link rel="stylesheet" type="text/css" href="gallery-js-css/styleButton.css">
     <link rel="icon" href="gallery-js-css/log.svg" type="image/x-icon">
     <!-- Разметка JSON-LD, созданная Мастером разметки структурированных данных Google. -->
 <script type="application/ld+json">
@@ -47,6 +48,9 @@
         <picture>
           <img src='https://nasobe.ru/blozhik/img/beg/P11111-132550.jpg' alt='gallery-from-crutches'>
         </picture>
+        <div class="BoxButton">
+          <div id=buttonLeft><span style="font-size:35px;">👈</span></div><div id="buttonRight"><span style="font-size:35px;">👉</span></div>
+        </div>
         <p>Dashing development of <a href=https://nasobe.ru>web workshop named after baron sitoverstausen</a></p>
         <p id="json-holder"></p>
         <!-- Этот айдишник писал объект из скрипта с галереей! -->
@@ -58,7 +62,10 @@
       </article>
       <br>
     </main>
+    <!-- Подключение скрипта галереи -->
     <script src='gallery-js-css/ok-go.js'></script>
+    <!-- скрипт кнопок -->
+    <script src='gallery-js-css/buttonClick.js'></script>
     <div style='display:flex; justify-content:center; align-items:center; max-width:100%;flex-direction:column;'>
       <div id="sigCommentsBlock" style="max-width:100%;width:900px;"></div>
       <a href="http://sigcomments.com" style="font-size: 0.6em;">Система комментирования SigComments</a>

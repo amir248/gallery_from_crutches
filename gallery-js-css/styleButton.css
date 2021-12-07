@@ -1,0 +1,24 @@
+.BoxButton{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:900px;
+  max-width:100%;
+  flex-direction: row;
+}
+#buttonLeft{
+  width:50%;
+  background: yellowgreen;
+  text-align: center;
+  border: 3px solid #98e200;
+  border-radius: 10px;
+}
+#buttonRight{
+  width:50%;
+  background: yellowgreen;
+  text-align: center;
+  border: 3px solid #98e200;
+  border-radius: 10px;
+}
+#buttonLeft:hover{ background: darkgreen; }
+#buttonRight:hover{ background: darkgreen; }
