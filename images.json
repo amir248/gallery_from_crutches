@@ -54,15 +54,15 @@ title:"^_^"
 },{
 name:"",
 count:'6',
-alt:"alt",
-src:"https://disk.yandex.ru/i/ti_ChUc0oYzdZw",
+alt:"Продать любой товар",
+src:"https://cdn.pixabay.com/photo/2021/05/15/09/24/landscape-6255316_1280.jpg",
 srcset:"",
 hash:"Yes",
 title: "😆"
 },{
 name:"",
 count:'7',
-alt:"alt",
+alt:"Супер лендинг для продажника",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6734.JPG",
 srcset:"",
 hash:"ShlingShots",
@@ -70,7 +70,7 @@ title: "🤩"
 },{
 name:"",
 count:'8',
-alt:"alt",
+alt:"Спанч Боб Кодер",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6735.JPG",
 srcset:"",
 hash:"spanchBob-znaet",
@@ -78,7 +78,7 @@ title: "🤩"
 },{
 name:"",
 count:'9',
-alt:"alt",
+alt:"Спанч Боб Кодит",
 src:"https://nasobe.ru/public_html/images/SpanchBob/DSC_6736.JPG",
 srcset:"",
 hash:"spanchBob-yveren",
@@ -86,7 +86,7 @@ title: "🤩"
 },{
 name:"",
 count:'9',
-alt:"alt",
+alt:"Спанч Боб программист",
 src:"https://nasobe.ru/public_html/images/SpanchBob/DSC_6737.JPG",
 srcset:"",
 hash:"spanchBob-govoritDA!",
