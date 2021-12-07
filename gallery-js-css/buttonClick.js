@@ -1,7 +1,7 @@
 document.querySelector('#buttonLeft').addEventListener('click',()=>{
   console.log("buttonLeftClick");
   CountClick--;
-  if(CountClick<=0){
+  if(CountClick<=-1){
     CountClick=IMG.length;
     console.log(CountClick<IMG.length);
   }

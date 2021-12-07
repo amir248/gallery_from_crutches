@@ -6,14 +6,16 @@ IMG=[{
   alt:"alt",
   src:"https://nasobe.ru/blozhik/img/beg/P11111-132550.jpg",
   srcset:"",
-  hash: "hash_nul"
+  hash: "hash_nul",
+  title: "title"
   },{
   name:"name2",
   count:'1',
   alt:"alt",
   src:"https://nasobe.ru/blozhik/img/beg/P11119-125537.jpg",
   srcset:"",
-  hash: "foto"
+  hash: "foto",
+  title: "Good things Are going to Happen"
   },{
     name:"name3",
     count:2,
@@ -23,27 +25,31 @@ IMG=[{
     maxWidth : {
       900: "px"
     },
-    hash:"hash"
+    hash:"hash",
+    title:"Работа кипит в полной скорости"
     },{
     name:"webp",
     count:'3',
     alt:"alt",
     src:"https://nasobe.ru/spaa/images/1.jpg",
     srcset:"https://nasobe.ru/spaa/images/1.webp",
-    hash:"webp"
+    hash:"webp",
+    title:"супер легкий формат webp"
 },{
 name:"Shikarno",
 count:'4',
 alt:"alt",
 src:"https://nasobe.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
 srcset:"",
-hash:"Shikarno"
+hash:"Shikarno",
+title: "Yo!"
 },{
 name:"looking_for_a_job",
 count:'5',
 alt:"looking_for_a_job",
 src:"https://nasobe.ru/blozhik/img/looking_for_a_job.png",
 srcset:"",
-hash:"looking_for_a_job"
+hash:"looking_for_a_job",
+title:"^_^"
 }
 ]

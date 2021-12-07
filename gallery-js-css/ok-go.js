@@ -17,6 +17,7 @@ function Plus(){
         console.log('nu vot'+IMG[newi].count+'__'+CountClick);
         document.querySelector('img').src=IMG[newi].src;
         document.querySelector('img').setAttribute('alt',IMG[newi].alt);
+        document.querySelector('img').setAttribute('title',IMG[newi].title);
           window.location.hash='#'+IMG[newi].hash;
       }
     }
@@ -27,6 +28,7 @@ function GoClick(){
     if(window.location.hash=='#'+IMG[aj].hash){
     document.querySelector('img').src=IMG[aj].src;
     document.querySelector('img').setAttribute('alt',IMG[aj].alt);
+    document.querySelector('img').setAttribute('title',IMG[aj].title);
       console.log(IMG[aj].count+"_"+IMG[aj].hash);
       if(IMG[aj].srcset=={}){
         console.log('pusto');
@@ -37,8 +39,4 @@ function GoClick(){
       // localStorage.setItem(CountClick,IMG[aj].count);
     }
   }
-}
-
-function RightClick(){
-  console.log("backClick");
 }
