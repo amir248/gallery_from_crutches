@@ -51,5 +51,21 @@ src:"https://nasobe.ru/blozhik/img/looking_for_a_job.png",
 srcset:"",
 hash:"looking_for_a_job",
 title:"^_^"
+},{
+name:"",
+count:'6',
+alt:"alt",
+src:"https://disk.yandex.ru/i/ti_ChUc0oYzdZw",
+srcset:"",
+hash:"Yes",
+title: "😆"
+},{
+name:"",
+count:'7',
+alt:"alt",
+src:"https://disk.yandex.ru/i/FPHJuMTSFeH5Gg",
+srcset:"",
+hash:"ShlingShots",
+title: "🤩"
 }
 ]
