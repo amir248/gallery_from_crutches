@@ -58,7 +58,7 @@ alt:"Продать любой товар",
 src:"https://nasobe.ru/images/saitoverstauzen.jpg",
 srcset:"",
 hash:"Yes",
-title: "<span style='font-size:45px;'>😆</span>"
+title: "😆"
 },{
 name:"",
 count:'7',
@@ -66,7 +66,7 @@ alt:"Супер лендинг для продажника",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6734.JPG",
 srcset:"",
 hash:"ShlingShots",
-title: "<span style='font-size:45px;'>🤩</span>"
+title: "🤩"
 },{
 name:"",
 count:'8',
@@ -74,7 +74,7 @@ alt:"Спанч Боб Кодер",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6735.JPG",
 srcset:"",
 hash:"spanchBob-znaet",
-title: "<span style='font-size:45px;'>🤩</span>"
+title: "🤩"
 },{
 name:"",
 count:'9',
@@ -82,7 +82,7 @@ alt:"Спанч Боб Кодит",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6736.JPG",
 srcset:"",
 hash:"spanchBob-yveren",
-title: "<span style='font-size:45px;'>🤩</span>"
+title: "🤩"
 },{
 name:"",
 count:'9',
@@ -90,6 +90,6 @@ alt:"Спанч Боб программист",
 src:"https://nasobe.ru/images/SpanchBob/DSC_6737.JPG",
 srcset:"",
 hash:"spanchBob-govoritDA",
-title: "<span style='font-size:45px;'>🤩</span>"
+title: "🤩"
 }
 ]
