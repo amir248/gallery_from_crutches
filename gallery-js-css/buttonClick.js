@@ -5,7 +5,7 @@ document.querySelector('#buttonLeft').addEventListener('click',()=>{
     CountClick=IMG.length;
     // console.log(CountClick<IMG.length);
   }
-    console.log("coutnClick"+'__'+CountClick);
+    // console.log("coutnClick"+'__'+CountClick);
     for(let newi=0;newi<IMG.length;newi++){
       if(IMG[newi].count==CountClick){
         // console.log('nu vot'+IMG[newi].count+'__'+CountClick);
