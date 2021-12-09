@@ -99,5 +99,13 @@ src:"https://nasobe.ru/images/SpanchBob/DSC_6716.JPG",
 srcset:"https://nasobe.ru/images/SpanchBob/webp/DSC_6716.webp",
 hash:"spanchBob-DA",
 title: "🤩"
+},{
+name:"",
+count:'12',
+alt:"Лотос растет в грязи",
+src:"https://nasobe.ru/images/lotos.jpg",
+srcset:"",
+hash:"lotus",
+title: "Lotus"
 }
 ]
