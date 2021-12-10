@@ -107,5 +107,13 @@ src:"https://nasobe.ru/images/lotos.jpg",
 srcset:"",
 hash:"lotus",
 title: "Lotus"
+},{
+name:"",
+count:'13',
+alt:"JS",
+src:"https://nasobe.ru/images/web/js.png",
+srcset:"",
+hash:"JS",
+title: "JS"
 }
 ]
