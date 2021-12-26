@@ -8,8 +8,9 @@ document.querySelector('img').addEventListener('click',Plus);
 let CountClick=+0;
 function Plus(){
   CountClick++;
-  if(CountClick>=IMG.length){
+  if(CountClick>IMG.length){
     CountClick=0;
+    return GoClick;
   }
     // console.log("coutnClick"+'__'+CountClick);
     for(let newi=0;newi<IMG.length;newi++){
