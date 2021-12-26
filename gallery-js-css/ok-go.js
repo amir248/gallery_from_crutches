@@ -10,7 +10,7 @@ function Plus(){
   CountClick++;
   if(CountClick>=IMG.length){
     CountClick=0;
-    window.location.hash='';
+    // window.location.hash='';
     return GoClick;
   }
     // console.log("coutnClick"+'__'+CountClick);
