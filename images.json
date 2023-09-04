@@ -5,7 +5,7 @@ IMG=[{
     count:0,
     alt:"professional html coder",
     src:"https://qucu.ru/blozhik/img/beg/P11111-132550.jpg",
-    srcset:"https://nasobe.ru/blozhik/img/beg/webp/P11111-132550.webp",
+    srcset:"https://qucu.ru/blozhik/img/beg/webp/P11111-132550.webp",
     hash: "hash_nul",
     title: "title"
     },{
@@ -13,7 +13,7 @@ IMG=[{
     count:'1',
     alt:"Прогер, верстальщик, heml coder",
     src:"https://qucu.ru/blozhik/img/beg/P11119-125537.jpg",
-    srcset:"https://nasobe.ru/blozhik/img/beg/webp/P11119-125537.webp",
+    srcset:"https://qucu.ru/blozhik/img/beg/webp/P11119-125537.webp",
     hash: "foto",
     title: "Good things Are going to Happen"
     },{
@@ -21,7 +21,7 @@ IMG=[{
       count:2,
       alt:"Адаптивная галерея на JS",
       src:"https://qucu.ru/blozhik/img/beg/P11119-163322.jpg",
-      srcset:"https://nasobe.ru/blozhik/img/beg/webp/P11119-163322.webp",
+      srcset:"https://qucu.ru/blozhik/img/beg/webp/P11119-163322.webp",
       maxWidth : {
         900: "px"
       },
@@ -32,7 +32,7 @@ IMG=[{
     count:'3',
     alt:"alt",
     src:"https://qucu.ru/spaa/images/1.jpg",
-    srcset:"https://nasobe.ru/spaa/images/1.webp",
+    srcset:"https://qucu.ru/spaa/images/1.webp",
     hash:"webp",
     title:"супер легкий формат webp"
   },{
