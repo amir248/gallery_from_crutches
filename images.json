@@ -4,7 +4,7 @@ IMG=[{
   name:"name",
     count:0,
     alt:"professional html coder",
-    src:"https://nasobe.ru/blozhik/img/beg/P11111-132550.jpg",
+    src:"https://qucu.ru/blozhik/img/beg/P11111-132550.jpg",
     srcset:"https://nasobe.ru/blozhik/img/beg/webp/P11111-132550.webp",
     hash: "hash_nul",
     title: "title"
@@ -12,7 +12,7 @@ IMG=[{
     name:"name2",
     count:'1',
     alt:"Прогер, верстальщик, heml coder",
-    src:"https://nasobe.ru/blozhik/img/beg/P11119-125537.jpg",
+    src:"https://qucu.ru/blozhik/img/beg/P11119-125537.jpg",
     srcset:"https://nasobe.ru/blozhik/img/beg/webp/P11119-125537.webp",
     hash: "foto",
     title: "Good things Are going to Happen"
@@ -20,7 +20,7 @@ IMG=[{
       name:"name3",
       count:2,
       alt:"Адаптивная галерея на JS",
-      src:"https://nasobe.ru/blozhik/img/beg/P11119-163322.jpg",
+      src:"https://qucu.ru/blozhik/img/beg/P11119-163322.jpg",
       srcset:"https://nasobe.ru/blozhik/img/beg/webp/P11119-163322.webp",
       maxWidth : {
         900: "px"
@@ -31,7 +31,7 @@ IMG=[{
     name:"webp",
     count:'3',
     alt:"alt",
-    src:"https://nasobe.ru/spaa/images/1.jpg",
+    src:"https://qucu.ru/spaa/images/1.jpg",
     srcset:"https://nasobe.ru/spaa/images/1.webp",
     hash:"webp",
     title:"супер легкий формат webp"
@@ -39,15 +39,15 @@ IMG=[{
   name:"Shikarno",
   count:'4',
   alt:"Умелый веб программист",
-  src:"https://nasobe.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
-  srcset:"https://nasobe.ru/blozhik/img/beg/webp/IMG_20211116_130236_938.webp",
+  src:"https://qucu.ru/blozhik/img/beg/IMG_20211116_130236_938.jpg",
+  srcset:"https://qucu.ru/blozhik/img/beg/webp/IMG_20211116_130236_938.webp",
   hash:"Shikarno",
   title: "Yo!"
   },{
 name:"looking_for_a_job",
 count:'5',
 alt:"looking_for_a_job",
-src:"https://nasobe.ru/blozhik/img/looking_for_a_job.png",
+src:"https://qucu.ru/blozhik/img/looking_for_a_job.png",
 srcset:"",
 hash:"looking_for_a_job",
 title:"^_^"
@@ -55,7 +55,7 @@ title:"^_^"
 name:"",
 count:'6',
 alt:"Продать любой товар",
-src:"https://nasobe.ru/images/saitoverstauzen.jpg",
+src:"https://qucu.ru/images/saitoverstauzen.jpg",
 srcset:"",
 hash:"Yes",
 title: "😆"
@@ -63,47 +63,47 @@ title: "😆"
 name:"",
 count:'7',
 alt:"Супер лендинг для продажника",
-src:"https://nasobe.ru/images/SpanchBob/DSC_6734.JPG",
-srcset:"https://nasobe.ru/images/SpanchBob/webp/DSC_6734.webp",
+src:"https://qucu.ru/images/SpanchBob/DSC_6734.JPG",
+srcset:"https://qucu.ru/images/SpanchBob/webp/DSC_6734.webp",
 hash:"ShlingShots",
 title: "🤩"
 },{
 name:"",
 count:'8',
 alt:"Спанч Боб Кодер",
-src:"https://nasobe.ru/images/SpanchBob/DSC_6735.JPG",
-srcset:"https://nasobe.ru/images/SpanchBob/webp/DSC_6735.webp",
+src:"https://qucu.ru/images/SpanchBob/DSC_6735.JPG",
+srcset:"https://qucu.ru/images/SpanchBob/webp/DSC_6735.webp",
 hash:"spanchBob-znaet",
 title: "🤩"
 },{
 name:"",
 count:'9',
 alt:"Спанч Боб Кодит",
-src:"https://nasobe.ru/images/SpanchBob/DSC_6736.JPG",
-srcset:"https://nasobe.ru/images/SpanchBob/webp/DSC_6736.webp",
+src:"https://qucu.ru/images/SpanchBob/DSC_6736.JPG",
+srcset:"https://qucu.ru/images/SpanchBob/webp/DSC_6736.webp",
 hash:"spanchBob-yveren",
 title: "🤩"
 },{
 name:"",
 count:'10',
 alt:"Спанч Боб программист",
-src:"https://nasobe.ru/images/SpanchBob/DSC_6737.JPG",
-srcset:"https://nasobe.ru/images/SpanchBob/webp/DSC_6737.webp",
+src:"https://qucu.ru/images/SpanchBob/DSC_6737.JPG",
+srcset:"https://qucu.ru/images/SpanchBob/webp/DSC_6737.webp",
 hash:"spanchBob-govoritDA",
 title: "🤩"
 },{
 name:"",
 count:'11',
 alt:"Спанч Боб программист",
-src:"https://nasobe.ru/images/SpanchBob/DSC_6716.JPG",
-srcset:"https://nasobe.ru/images/SpanchBob/webp/DSC_6716.webp",
+src:"https://qucu.ru/images/SpanchBob/DSC_6716.JPG",
+srcset:"https://qucu.ru/images/SpanchBob/webp/DSC_6716.webp",
 hash:"spanchBob-DA",
 title: "🤩"
 },{
 name:"",
 count:'12',
 alt:"Лотос растет в грязи",
-src:"https://nasobe.ru/images/lotos.jpg",
+src:"https://qucu.ru/images/lotos.jpg",
 srcset:"",
 hash:"lotus",
 title: "Lotus"
@@ -111,7 +111,7 @@ title: "Lotus"
 name:"",
 count:'13',
 alt:"JS",
-src:"https://nasobe.ru/images/web/js.png",
+src:"https://qucu.ru/images/web/js.png",
 srcset:"",
 hash:"JS",
 title: "JS"
